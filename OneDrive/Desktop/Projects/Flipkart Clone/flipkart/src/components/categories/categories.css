@@ -1,0 +1,20 @@
+.categories_wrapper{
+    margin-top: 20px;
+}
+
+.category{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.category .category_img{
+    width: 50px;
+    height: 50px;
+}
+
+.category .category_label{
+    margin-top: 4px;
+}
